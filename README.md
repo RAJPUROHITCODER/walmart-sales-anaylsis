@@ -67,5 +67,4 @@ A full-cycle data analysis project on multi-city DMart retail sales in Gujarat, 
 
 ---
 
-## 📁 Project Structure
 
